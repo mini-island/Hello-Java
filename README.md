@@ -10,6 +10,7 @@ Hello World，作為第一個 Java 程式的範本，測試你的 Java 環境符
 
 ## Usage
 (說明執行方法)
+Print Hello-World to console!
 
 ```
 java HelloWorld
